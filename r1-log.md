@@ -15,4 +15,16 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
    - To demonstrate and further solidify my understanding of layouts and views I created a pet age guessing app.
 
 ### R1D3
+   - Created a quiz App that taught the fundementals of the Android lifecycle in apps 
+    - Learned about the saveOnInstanceMethod and its usefullness in saving data states when user leaves and app and wants to resume
+    -Created a Lyric Finding App that uses JSON parsing for getting data from API's
+    - Learned about network request and how data is parsed.
+### R1D4
+
+
+### R1D5
+
+
+### R1D6
+
     
