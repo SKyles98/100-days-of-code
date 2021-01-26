@@ -20,6 +20,8 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
     -Created a Lyric Finding App that uses JSON parsing for getting data from API's
     - Learned about network request and how data is parsed.
 ### R1D4
+  - Worked on a Pomodoro CLock App
+  - Overall im happy with the end result and finishing a project withould having my handheld
 
 
 ### R1D5
