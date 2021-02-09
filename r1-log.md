@@ -25,7 +25,9 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
 
 
 ### R1D5
-
+   - Started an recipe App that uses both Glide and Volley libraries
+   - Implements the mealdb Api to get food data and displayes it inside of a cardView
+   - Ran into a bug with the jsonRequest and I am working my way through that
 
 ### R1D6
 
