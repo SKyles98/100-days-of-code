@@ -30,5 +30,8 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
    - Ran into a bug with the jsonRequest and I am working my way through that
 
 ### R1D6
+   - Finished my Recipe app after debugging for 3 hours
+   - Overall happy with the finished product but theres definitely some improvements that can made
+   - Will revist the app with newly gained skills to make it more dynamic
 
     
