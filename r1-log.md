@@ -33,5 +33,21 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
    - Finished my Recipe app after debugging for 3 hours
    - Overall happy with the finished product but theres definitely some improvements that can made
    - Will revist the app with newly gained skills to make it more dynamic
+### R1D7
+    - Started working on a Calculator app and nearly finished with it ass well
+    -Learning alot about strings
 
+### R1D8
+### R1D9
+### R1D10
+### R1D11
+### R1D12
+### R1D13
+### R1D14
+### R1D15
+### R1D16
+### R1D17
+### R1D18
+### R1D19
+### R1D20
     
