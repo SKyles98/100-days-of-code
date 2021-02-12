@@ -38,7 +38,10 @@ The log of my #100DaysOfCode challenge. Started on [January 1, Friday, 2021].
     -Learning alot about strings
 
 ### R1D8
+    -Finished the calculator app and happy with results, alos learned about the rhino library which uses a script engine to read String Data 
+    - Picked back up with udemy course to work on a code along favorite list app that strengthens knowledge of recyclerwiews  and ways to save user data
 ### R1D9
+    -
 ### R1D10
 ### R1D11
 ### R1D12
