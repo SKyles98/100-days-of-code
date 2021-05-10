@@ -10,7 +10,9 @@ The log of my #100DaysOfCode challenge. Started on [May 8, Saturday, 2021].
     
 
 ### R1D2
-
+ - Finished module 3 and learned about pure Dependency injection and its uses
+ - Refactored the networking layer of the recipe app and removed view initialization from Main Activity into separte classes.
+ - Implemented observer pattern into the app for loose coupling.
 
 ### R1D3
 
