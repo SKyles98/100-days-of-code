@@ -15,9 +15,10 @@ The log of my #100DaysOfCode challenge. Started on [May 8, Saturday, 2021].
  - Implemented observer pattern into the app for loose coupling.
 
 ### R1D3
+- Continuing to refactor old app to Mvc architechture
+- Beginning to understand it much better how powerful interfaces are in allowing for loose coupling between controller and views
 
 ### R1D4
-
 
 
 ### R1D5
