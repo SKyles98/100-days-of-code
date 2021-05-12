@@ -19,7 +19,8 @@ The log of my #100DaysOfCode challenge. Started on [May 8, Saturday, 2021].
 - Beginning to understand it much better how powerful interfaces are in allowing for loose coupling between controller and views
 
 ### R1D4
-
+ - Redisigned UI of the home screen to incorporate searchbar 
+ - Learned about Shimmer layout for non obtrusive loading 
 
 ### R1D5
    
